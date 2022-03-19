@@ -1,0 +1,17 @@
+Back end API Node JS
+
+##First
+
+--npm start
+
+--install mongoose
+Configure your mongoose and database api
+Note: Your database is create with config when your app start.
+
+##Then
+Run your project
+
+
+
+##Other
+Connection anterion: MONGO_URI=mongodb+srv://jeffben:JeffBen2022@cluster0.gyiiu.mongodb.net/Libreria?retryWrites=true&w=majority
